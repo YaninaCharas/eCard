@@ -1,0 +1,23 @@
+img {
+  /* width: 50%; */
+  border-radius: 50%;
+}
+.card {
+  margin: 0 auto;
+  background: rgb(196, 249, 255);
+  background: linear-gradient(
+    0deg,
+    rgba(196, 249, 255, 1) 0%,
+    rgba(245, 249, 248, 0.9921218487394958) 50%
+  );
+}
+.btn-primary {
+  background-color: rgb(186, 184, 184);
+  color: black;
+  font-weight: bold;
+  margin-right: auto;
+  margin-left: auto;
+}
+.btn-primary:hover {
+  background-color: rgb(186, 184, 184);
+}
